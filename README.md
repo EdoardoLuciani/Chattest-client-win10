@@ -9,4 +9,4 @@ Before connecting to a room check that the client version you are using is compa
 The binaries are only available for x64 and are guaranteed to work only for **Windows 10**. Other Windows versions have not been tested.
 
 ## Future Plans
-The first thing I plan to do is add a gui version! I will also encorauge the developer of Chattest-rs to implement encryption.
+The first thing I plan to do is add a gui version! In the mean time I will encorauge the developer of Chattest-rs to implement encryption.
